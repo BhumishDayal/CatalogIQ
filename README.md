@@ -29,12 +29,9 @@ source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
-```
 ### 3. API Key
 **Add your OPENAI_API_KEY in the .env file**
-```
 
-```
+ 
 ### 4. Run the app
 **Streamlit run app.py**
-```
