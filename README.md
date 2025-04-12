@@ -21,15 +21,20 @@
 ```bash
 git clone https://github.com/your-username/catalogiq.git
 cd catalogiq
+```
 
-
-### Setting up the enviornment
+### 2. Setting up the enviornment
 python -m venv .venv
 source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
+```
 
-### API Key
+```
+### 3. API Key
 **Add your OPENAI_API_KEY in the .env file**
+```
 
-### Run the app
+```
+### 4. Run the app
 **Streamlit run app.py**
+```
