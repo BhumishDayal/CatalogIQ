@@ -1,0 +1,13 @@
+# 🔒 Hide API keys and credentials
+.env
+
+# 🐍 Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# 📦 Ignore virtual environments
+.venv/
+venv/
+
+# 📂 Ignore Streamlit config/cache
+.streamlit/
